@@ -1,0 +1,11 @@
+10
+8 [start] aikido is a japanese martial art [end] 
+8 [start] it was developed by morihei ueshiba [end] 
+14 [start] aikido is based on ueshiba philosophy martial arts training and religious beliefs [end] 
+23 [start] the word aikido is often translated as the way of unifying with life energy or as the way of harmonious spirit [end] 
+24 [start] ueshiba wanted to create an art where people could defend them-selves without harming their attacker by using the attackers ki against them [end] 
+14 [start] he wanted each practitioner of aikido to develop both physically and spiritually [end] 
+24 [start] aikido is performed by blending with the way the attacker moves using the force of the attack rather than coming against it [end] 
+12 [start] this is achieved by using the attackers ki against them [end] 
+20 [start] the techniques are completed with many different throws or joint locks which can be combined with different defenses [end] 
+9 [start] aikido is one of many grappling arts [end]
